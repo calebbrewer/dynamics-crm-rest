@@ -1,6 +1,6 @@
 {
   "name": "dynamics-crm-rest",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "dynamics-crm-rest is a node module for interfacing with the Microsoft Dynamics CRM REST API.",
   "main": "index.js",
   "scripts": {
