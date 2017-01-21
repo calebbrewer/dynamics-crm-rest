@@ -249,4 +249,4 @@ class DynamicsCrmRest {
     };
 };
 
-module.exports = DynamicsRest;
+module.exports = DynamicsCrmRest;

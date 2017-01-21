@@ -21,6 +21,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "request": "^2.79.0",
     "safe-json-parse": "^4.0.0"
   }
 }
