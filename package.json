@@ -1,0 +1,26 @@
+{
+  "name": "dynamics-crm-rest",
+  "version": "1.0.0",
+  "description": "dynamics-crm-rest is a node module for interfacing with the Microsoft Dynamics CRM REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dynamics",
+    "crm",
+    "microsoft",
+    "rest",
+    "node",
+    "api"
+  ],
+  "author": {
+    "name": "Caleb Brewer",
+    "email": "caleb@calebbrewer.com",
+    "url": "calebbrewer.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "safe-json-parse": "^4.0.0"
+  }
+}
