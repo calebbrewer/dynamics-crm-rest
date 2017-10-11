@@ -1,5 +1,5 @@
 dynamics-crm-rest
-__
+-----------------
 dynamics-crm-rest is a node module for interfacing with the [Microsoft Dynamics CRM REST (Web) API](https://msdn.microsoft.com/en-us/library/mt593051.aspx). If you’ve had issues with Microsoft’s adal-node tool for authing against the API (The auth is handled by an Azure app) then this module will make you happy.
 
 `GET, POST, PATCH, PUT, and DELETE are supported.` 
